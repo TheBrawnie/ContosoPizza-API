@@ -33,3 +33,4 @@ C:\Users\braun\OneDrive\Documentos\API\ContosoPizza\obj\Debug\net8.0\refint\Cont
 C:\Users\braun\OneDrive\Documentos\API\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
 C:\Users\braun\OneDrive\Documentos\API\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\braun\OneDrive\Documentos\API\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+C:\Users\braun\OneDrive\Documentos\API\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
